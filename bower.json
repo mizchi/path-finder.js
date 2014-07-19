@@ -1,7 +1,7 @@
 {
   "name": "path-finder",
   "main": "path-finder.js",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "authors": [
     "Koutarou Chikuba <miz404@gmail.com>"
   ],
