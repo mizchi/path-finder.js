@@ -1,5 +1,5 @@
 {
-  "name": "astar",
+  "name": "path-finder",
   "version": "0.0.1",
   "description": "",
   "main": "path-finder.js",
