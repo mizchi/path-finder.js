@@ -2,6 +2,14 @@
 
 Simple A\* path finder.
 
+```
+npm install mizchi/path-finder.js
+```
+
+```
+bower install mizchi/path-finder.js
+```
+
 ```coffee
 PathFinder = require 'path-finder'
 sample_hitmap = [
